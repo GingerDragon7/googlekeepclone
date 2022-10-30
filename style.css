@@ -7,7 +7,7 @@
   
   html,
   body {
-    background-color: #fff;
+    background-color: #e4e4e4;
     color: #202124;
     font-size: 15px;
     margin: 0;
@@ -82,7 +82,7 @@
   }
   
   .header-title {
-    color: #5f6368;
+    color: #7f868f;
     font-size: 2rem;
     padding-top: 4px;
     padding-left: 4px;
@@ -389,5 +389,13 @@
   
   #teal {
     background: #a7ffeb;
+  }
+
+  #grey{
+    background: grey;
+  }
+  
+  #silver{
+    background: silver;
   }
   
